@@ -75,7 +75,7 @@ I am Jakoby
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="https://youtube.com/c/IamJakoby?sub_confirmation=1">
+      <a href="https://www.youtube.com/watch?v=nlYlNF30bVg">
         <img src=https://github.com/I-Am-Jakoby/I-Am-Jakoby/blob/main/img/youtube-svgrepo-com.svg width="48" height="48" alt="C#" />
       </a>
       <br>YouTube
