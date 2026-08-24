@@ -32,15 +32,15 @@ Add-Type -AssemblyName System.Windows.Forms
 
 # The number of times you want it to cycle through your list of questions
 
-$cycles = 3
+$cycles = 5
 
 # List as many questions here as you like, it will cycle through all of them
 
 $msgs = @(
-"Are all scammers as dumb as you?"
-"Is the pay worth being this big of a loser?"
-"Do your parents know what you do for a living?"
-"Does you boss know much much you suck at this job?"
+"Only 20 moore to close"
+"don't leve your computer open "
+"this is so funnu to watch "
+"this will only end if you sing my little pony"
 )
 
 for ($i=1; $i -le $cycles; $i++) {
